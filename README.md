@@ -2,3 +2,4 @@
 - I’m interested in: Simulations & applied computation
 - I’m currently learning: C++ and Java
 - My email is jethridge1031@gmail.com if you'd like to reach me
+- LinkedIn: http://www.linkedin.com/in/jack-ethridge
