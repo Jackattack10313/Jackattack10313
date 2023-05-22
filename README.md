@@ -1,5 +1,2 @@
 - Hi, I’m @Jackattack10313 (Jack Ethridge, a physics student at Texas A&M University)
-- I’m interested in: Simulations & applied computation
-- I’m currently learning: C++, Haskell, and Java
-- My email is jethridge1031@gmail.com if you'd like to reach me
 - LinkedIn: http://www.linkedin.com/in/jack-ethridge
